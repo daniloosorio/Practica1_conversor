@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica1_conversor</string>
+    <string name="entrada">Ingrese el valor  a convertir</string>
+    <string name="salida">Resultado</string>
+    <string name="convertir">Convertir</string>
+
+    <string-array name="monedas_in">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Yen</item>
+        <item>Peso Colombiano</item>
+    </string-array>
+</resources>
